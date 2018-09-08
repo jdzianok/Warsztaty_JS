@@ -87,7 +87,7 @@ nav {
   text-shadow: .2rem .2rem .2rem #424343;
   font-weight: 600;
   font-size: 6rem;
-  margin: 40px 0;
+  margin: 80px 0;
 }
 
 .tasks-btn {
@@ -304,3 +304,4 @@ footer p {
   color: #424343;
   margin-top: 3rem;
 }
+
